@@ -1,0 +1,16 @@
+/* Center the content on the page */
+
+.container {
+  width: 100%;
+  padding: 50px;
+}
+
+
+.table-responsive{
+  padding-top: 50px;
+}
+
+
+h1 {
+  text-align: center;
+}
